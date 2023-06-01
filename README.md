@@ -10,3 +10,6 @@ clone push fetch merge
 ### $ git remote update
 - 모든 원격 브랜치를 업데이트하여 최신 상태로 갱신
 
+```
+병합하지 않고 원격저장소의 내용을 최신 내용을 볼 수 있나요?
+```
