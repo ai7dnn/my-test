@@ -20,3 +20,7 @@ clone push fetch merge
 ### $ git merge
 - 현재 위치하고 있는 지역저장소 브랜치에서 원격브랜치의 내용을 반영해 수정
 
+```
+fetch한 후 pull하면
+'''
+
